@@ -44,6 +44,8 @@ Below are the list of payment method currently covered by this integration
 
 ## Credits
 
+Special thanks to [Onecode P.C](https://github.com/OnecodeGr) for building the initial release of this Klarna integration for the Hyvä React Checkout!
+
 - [All Contributors][link-contributors]
 
 ## License
